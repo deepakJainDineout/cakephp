@@ -1,3 +1,4 @@
 {
-  "phabricator.uri" : "http://phabricator.dineout.com"
+  "phabricator.uri" : "http://phabricator.dineout.com",
+  "default-reviewers": "deepak-jain2007"
 }
